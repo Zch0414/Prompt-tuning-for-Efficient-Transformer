@@ -1,10 +1,10 @@
-# Synergistic Efficiency
+# Visual Prompt Tuning
 
 https://arxiv.org/abs/2203.12119 
 
 ------
 
-This repository contains the official PyTorch implementation for Synergistic Efficiency. This repository is built on [VPT](https://github.com/kmnp/vpt), and portions of [ToMe](https://github.com/facebookresearch/ToMe) and [EViT](https://github.com/youweiliang/evit).
+This repository contains the official PyTorch implementation for Visual Prompt Tuning. 
 
 ![teaser](https://github.com/KMnP/vpt/blob/main/imgs/teaser.png)
 
