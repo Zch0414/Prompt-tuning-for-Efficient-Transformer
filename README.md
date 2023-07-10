@@ -4,7 +4,7 @@
 
 This repository is built on [VPT](https://github.com/kmnp/vpt), and portions of [ToMe](https://github.com/facebookresearch/ToMe) and [EViT](https://github.com/youweiliang/evit).
 
-![vpt_teaser](https://github.com/KMnP/vpt/blob/main/imgs/pipline.png)
+![vpt_teaser](https://github.com/KMnP/vpt/blob/main/imgs/pipeline.png)
 
 ## Environment settings
 
