@@ -10,7 +10,9 @@ Parameter-efficient tuning and decreasing the computational demands are two bran
 
 ----
 
-Since ToMe measures the 
+We apply the token reduction technology not only to image tokens but also to prompt tokens. Since ToMe merges tokens by measuring the cosine similarity of their key, there is a natural insight that the learnable prompt is similar to which image token. This insight gives a possible interpretation of the visual prompt. We highlight the most similar tokens in relation to the learned prompt in the input image for ToMe. We observe that the most learned prompts tend to point to the background of the image, which corresponds to one of the prompt settings mentioned in the Segment Anything Model. We hope this discovery can attract more researchers to explore prompt engineering and its potential applications in various tasks and domains.
+
+![result](https://github.com/Zch0414/EECS_553_Project/blob/Zach/imgs/qualitative_result.png)
 
 ## Acknowledgements
 
